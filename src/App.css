@@ -1,0 +1,13 @@
+.App {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+  background-color: black;
+  color: #ffffff;
+}
+.App h1 {
+  margin:10px;
+}
+
+

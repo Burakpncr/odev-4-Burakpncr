@@ -1,0 +1,11 @@
+.CityList-Container {
+  margin: 30px auto;
+  width: 70%;
+}
+
+@media screen and (max-width:1000px) {
+  .CityList-Container{
+    margin: 30px auto;
+    width: 80%;
+  }
+}
